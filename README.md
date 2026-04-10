@@ -1,9 +1,6 @@
-## Hi, this is Anthony Harper.
-Seasoned full‑stack software engineer with 12 years of hands‑on experience transforming sketch‑board concepts into production‑grade web and cloud solutions. I specialize in building pixel‑perfect, sub‑100‑ms interfaces with React/Next.js and TypeScript, while architecting resilient, event‑driven back‑ends in .NET 8, Node.js 20, Python (FastAPI/Django), and Java (Spring Boot). My toolbox spans micro‑frontend architectures, design‑token pipelines, AI‑powered data‑visualization dashboards, and CI/CD automation with Docker, Kubernetes, and Terraform. A relentless advocate for performance, accessibility, and DevOps culture, I mentor cross‑disciplinary teams, enforce Web‑Vitals budgets, and translate ambiguous stakeholder ideas into secure, scalable, and maintainable products that delight millions of users.
-<p align="center">
-  <a href="https://github.com/anthony-public"><a href="https://github.com/anthony-public"><img src="https://komarev.com/ghpvc/?username=anthony-public&style=flat" alt="profile views"></a></a>
-  <a href="https://github.com/anthony-public?tab=followers"><img src="https://img.shields.io/github/followers/anthony-public?label=Followers&style=flat" alt="followers"></a>
-</p>
+## Hi, this is George Rivas.
+Full-stack software engineer with substantial experience in front-end technologies like React and Angular, complemented by a deep understanding of building event-driven architectures using .NET, Node.js, Python, and Java. Demonstrated success in leading teams to create performant, scalable web and cloud solutions, optimizing delivery times and engineering tailored reusable components to enhance productivity and maintainability. Proven history of driving operational excellence and cost-efficiency through automation and strategic architectural decisions, seeking to leverage full-stack expertise to empower transformative solutions in the target role.
+
 
 <p align="center">
   <img
